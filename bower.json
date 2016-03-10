@@ -1,0 +1,13 @@
+{
+  "name": "ResponsiveMultiLevelMenu",
+  "version": "1.0.2",
+  "description": "A responsive multi-level menu that shows its submenus in their own context.",
+  "homepage": "https://github.com/lilitGrigoryan/ResponsiveMultiLevelMenu",
+  "main": [
+    "js/modernizr.custom.js",
+    "js/jquery.dlmenu.js",
+    "css/component.css"
+  ],
+  "license": "MIT"
+ 
+}
