@@ -6,7 +6,12 @@
   "main": [
     "js/modernizr.custom.js",
     "js/jquery.dlmenu.js",
-    "css/component.css"
+    "css/component.css",
+    "fonts/icomoon.ttf",
+    "fonts/icomoon.dev.svg",
+    "fonts/icomoon.eot",
+    "fonts/icomoon.svg,
+    "fonts/icomoon.woff"
   ],
   "license": "MIT"
  
